@@ -1,0 +1,13 @@
+{
+  "name": "Camibot",
+  "description": "a bot used for the Camical Discord server",
+  "version": "0.0.0",
+  "main": "camibot.js",
+  "scripts": {
+    "start": "node camibot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
